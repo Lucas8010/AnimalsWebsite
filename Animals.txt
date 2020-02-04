@@ -1,0 +1,7 @@
+dog
+cat
+bird
+mouse
+pig
+cow
+sheep
